@@ -30,3 +30,4 @@ public class TestMathOperations {
 		System.out.println(result);
 		assertTrue(result == -1);
 	}
+}
